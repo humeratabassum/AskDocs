@@ -1,1 +1,25 @@
 __pycache__/ 
+# Virtual environments
+venv/
+.env
+
+# IDE settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PDFs and other private docs
+docs/*.pdf
+
+# Optional: Ignore secrets or credentials if any other files are added
+*.key
+*.pem
